@@ -1,0 +1,2 @@
+# Colored Tiles
+A minor personal project. Colored Tiles is a simple, efficient, and light Java code made to run in Raspberry Pi. This is a simulation similar to the well-known "Game of Life" by John Conway, but under more complex rules which determine the color of a pixel, not just whether it is black or white. The result is an interesting retro-style desktop screen saver. Chunks of similarly colored pixels behave as small nations or slimes seeking land and domination.
